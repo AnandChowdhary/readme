@@ -9,4 +9,4 @@ I made my first website and [published](https://web.archive.org/web/200810190934
 
 ## License
 
-This text is shared under a Creative Commons Attribution-ShareAlike 4.0 International license ([CC BY-SA 4.0](./LICENSE)).
+This text is shared under a Creative Commons Attribution 4.0 International license ([CC BY 4.0](./LICENSE)).
