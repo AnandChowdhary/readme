@@ -5,7 +5,7 @@
 
 ## Pronounciation
 
-Aah-nun'd Cho-dree
+`/ɑnʌnð t͡ʃŏɖʱɹi/` (similar to _Aah-nun'd Cho-dree_).
 
 ## Bio
 
