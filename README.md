@@ -17,15 +17,23 @@ I made my first website and [published](https://web.archive.org/web/200810190934
 - I typically work long hours, so you might receive an email or Slack message from me at unholy hours; you don't have to read or reply immediately if you're not working, and I don't expect you to work at the same times.
 - I'm still learning how to transition from a designer/developer/hacker/etc. to a manager, so you'll likely have to bare with my lack of discipline when it comes to important managerial responsibilities like setting up projects well in advance and providing useful feedback.
 
+_More to be added!_
+
 ## What I value
 
 - Keeping things in the open.
+
+_More to be added!_
 
 ## How you can help me
 
 - Feed me back.
 
+_More to be added!_
+
 ## How I can help you
+
+_More to be added!_
 
 ## License
 
