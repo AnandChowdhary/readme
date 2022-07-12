@@ -17,6 +17,7 @@ I made my first website and [published](https://web.archive.org/web/200810190934
 - I typically work long hours, so you might receive an email or Slack message from me at unholy hours; you don't have to read or reply immediately if you're not working, and I don't expect you to work at the same times.
 - I'm still learning how to transition from designer/developer/hacker/etc. to manager, so you'll likely have to bare with my lack of discipline when it comes to important managerial responsibilities like setting up projects well in advance and providing useful feedback.
 - I tend to think and talk fast, so I might jump in while someone is still talking and try to finish their thought. This is also something I'm working on, so if you say "Let me finish", it'll make me feel like I'm a prick and make me much more conscious of this.
+- My co-founder Carlo told me that I am "very good at things \[I] want to do, and so bad at things I don't want to do". I want to do a better job at tasks that are important, but those I'm not particular excited about.
 
 _More to be added!_
 
